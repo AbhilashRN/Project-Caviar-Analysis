@@ -7,6 +7,7 @@ This project aims to to apply:
 1. Degree Centrality
 2. Closeness Centrality
 3. Betweeness Centrality
+
 on the dataset to identify important nodes and thus glean insights on which nodes are the most important ones in the network.
 
 ## Initial Graph
