@@ -25,4 +25,7 @@ on the dataset to identify important nodes and thus glean insights on which node
 <img src=https://github.com/AbhilashRN/Project-Caviar-Analysis/blob/master/closenesscentrality.jpeg height="300" weight="240">
 
 
+## Datasets and packages used
 
+1. [Project Caviar Dataset](https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/caviar)
+2. [Python networkx](https://networkx.github.io/)
